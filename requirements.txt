@@ -3,5 +3,5 @@ pandas
 sklearn
 xgboost==1.6.1
 flask==1.0.2
-werkzeug~=0.14.1
+werkzeug
 gunicorn
