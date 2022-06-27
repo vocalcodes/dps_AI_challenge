@@ -26,3 +26,17 @@ Type: 'insgesamt'
 Year: '2022'
 Month: '01'
 ```
+
+
+## Visualizations:
+Figures below show the number of accidents per category for the years 2000-2021.
+![plot_bar_stacked_v](plot_bar_stacked_v.jpg)
+![plot_line](plot_line.jpg)
+
+Figure below shows the number of accidents for each category per month from the years 2000-2021.
+![plot_line_month](plot_line_month.jpg)
+
+
+Figure below shows the number of accidents for each category per month for the last 4 years.
+![plot_line_month_last4yrs](plot_line_month_last4yrs.jpg)
+  
