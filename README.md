@@ -23,7 +23,7 @@ To visualise historically the number of accidents per category (column1). The da
 ```
 Category: 'Alkoholunfälle'
 Type: 'insgesamt'
-Year: '2022'
+Year: '2021'
 Month: '01'
 ```
 
