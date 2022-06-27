@@ -40,3 +40,8 @@ Figure below shows the number of accidents for each category per month from the 
 Figure below shows the number of accidents for each category per month for the last 4 years.
 ![plot_line_month_last4yrs](plot_line_month_last4yrs.jpg)
   
+
+## Deployed Model:
+The completed model was successfully deployed on Heroku.  
+
+![heroku_screenshot](heroku_screenshot.jpg)
