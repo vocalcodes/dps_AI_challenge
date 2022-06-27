@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, render_template, flash
 import pickle
-#from flask import Flask, jsonify, request, render_template, flash
+
 app = Flask(__name__)
 model = pickle.load(open('randomforest.pkl', 'rb'))
 app.secret_key = "key"
